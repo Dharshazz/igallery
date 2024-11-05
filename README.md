@@ -26,8 +26,7 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 settings.py
-```ALLOWED_HOSTS = ['*']
-```
+```ALLOWED_HOSTS = ['*']```
 
 gallery.html
 ```<!DOCTYPE html>
@@ -149,7 +148,8 @@ urlpatterns = [
 
 
 ## OUTPUT:
-https://private-user-images.githubusercontent.com/178392646/378221490-3b02172a-1a32-4b53-bc67-42455893a65f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA4MDA1MTMsIm5iZiI6MTczMDgwMDIxMywicGF0aCI6Ii8xNzgzOTI2NDYvMzc4MjIxNDkwLTNiMDIxNzJhLTFhMzItNGI1My1iYzY3LTQyNDU1ODkzYTY1Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEwNVQwOTUwMTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kOWIyNDg2NzBhNzA4MzRmOWRhN2U5ODllZWE3ZWU5MjM0OGNiMDA4ZWIyZmU3YWIxZjVmM2RmMzUxYjA4MzA3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.C0OyYILvejJkxOnTgvJNySa0irzFEl_9bbgO5wxS-oU
+![image](https://github.com/user-attachments/assets/a6e8efbf-a16c-44c8-ab68-8bd6bce25aa5)
+
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
