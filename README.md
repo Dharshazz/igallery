@@ -26,7 +26,9 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 settings.py
-```ALLOWED_HOSTS = ['*']```
+```
+ALLOWED_HOSTS = ['*']
+```
 
 gallery.html
 ```<!DOCTYPE html>
